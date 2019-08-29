@@ -1,2 +1,3 @@
 # ant-learn-python
-蚂蚁学Python，微信公众号的代码仓库
+微信公众号：蚂蚁学Python
+用于演示的代码仓库
