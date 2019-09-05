@@ -1,0 +1,239 @@
+{"title": "Spark使用Java开发遇到的那些类型错误", "link": "http://www.crazyant.net/2469.html", "tags": ["java", "spark"]}
+{"title": "推荐系统：实现文章相似推荐的简单实例", "link": "http://www.crazyant.net/2454.html", "tags": ["pandas", "python", "sklearn", "推荐系统"]}
+{"title": "Spark使用word2vec训练item2vec实现内容相关推荐", "link": "http://www.crazyant.net/2447.html", "tags": ["item2vec", "java", "推荐系统"]}
+{"title": "Pandas中对轴axis=0和axis=1的理解", "link": "http://www.crazyant.net/2434.html", "tags": ["pandas", "python"]}
+{"title": "Flask使用Pyecharts在单个页面展示多个图表", "link": "http://www.crazyant.net/2419.html", "tags": ["echarts", "flask", "pyecharts", "python"]}
+{"title": "听樊登的《非暴力沟通》", "link": "http://www.crazyant.net/2404.html", "tags": ["程序人生"]}
+{"title": "Java和Python使用Grpc访问Tensorflow的Serving代码", "link": "http://www.crazyant.net/2367.html", "tags": ["java", "python", "tensorflow"]}
+{"title": "推荐系统：怎样实现内容相似推荐", "link": "http://www.crazyant.net/2351.html", "tags": ["推荐系统"]}
+{"title": "Flask怎样从其他Python文件导入app.route视图函数", "link": "http://www.crazyant.net/2343.html", "tags": ["flask", "python"]}
+{"title": "我为什么从工程转了算法？", "link": "http://www.crazyant.net/2336.html", "tags": ["大数据", "程序人生", "算法"]}
+{"title": "推荐系统：爱奇艺知识推荐系统架构", "link": "http://www.crazyant.net/2324.html", "tags": ["推荐系统"]}
+{"title": "Spark使用JAVA编写自定义函数修改DataFrame", "link": "http://www.crazyant.net/2303.html", "tags": ["java", "mysql", "spark"]}
+{"title": "tensorflow怎样输入具有多个值的特征", "link": "http://www.crazyant.net/2301.html", "tags": ["python", "tensorflow"]}
+{"title": "Python3用scan和delete命令批量清理redis数据", "link": "http://www.crazyant.net/2283.html", "tags": ["python", "redis"]}
+{"title": "CentOS自己编译安装Python3的命令", "link": "http://www.crazyant.net/2273.html", "tags": ["python", "shell"]}
+{"title": "PyCharm开发PySpark程序的配置和实例", "link": "http://www.crazyant.net/2261.html", "tags": ["pyspark", "python", "spark"]}
+{"title": "Spark数据倾斜解决方法", "link": "http://www.crazyant.net/2231.html", "tags": ["spark"]}
+{"title": "读书笔记 – 数据驱动从方法到实践", "link": "http://www.crazyant.net/2194.html", "tags": ["人工智能", "大数据", "数据驱动"]}
+{"title": "使用PaddlePaddle搭建卷积网络做文本数据分类", "link": "http://www.crazyant.net/2177.html", "tags": ["paddlepaddle", "机器学习"]}
+{"title": "使用Kmeans对Word2vec的输出做聚类", "link": "http://www.crazyant.net/2167.html", "tags": ["机器学习", "聚类"]}
+{"title": "Hive实现返回MAP的UDF", "link": "http://www.crazyant.net/2160.html", "tags": ["hive"]}
+{"title": "Python高级编程技巧", "link": "http://www.crazyant.net/2150.html", "tags": ["python"]}
+{"title": "快速找到Tomcat中最耗CPU的线程", "link": "http://www.crazyant.net/2145.html", "tags": ["java", "jvm", "tomcat"]}
+{"title": "Java线程池ThreadPoolExecutor详解", "link": "http://www.crazyant.net/2124.html", "tags": ["java"]}
+{"title": "Zookeeper并不保证读取的是最新数据", "link": "http://www.crazyant.net/2120.html", "tags": ["zookeeper"]}
+{"title": "Mybatis源码解读-初始化过程详解", "link": "http://www.crazyant.net/2089.html", "tags": ["mybatis"]}
+{"title": "怎样借助Python爬虫给宝宝起个好名字", "link": "http://www.crazyant.net/2076.html", "tags": ["python", "爬虫"]}
+{"title": "Mybatis源码解读-设计模式总结", "link": "http://www.crazyant.net/2022.html", "tags": ["mybatis", "设计模式"]}
+{"title": "打工者心态、主人公意识、个人公司品牌", "link": "http://www.crazyant.net/2012.html", "tags": ["程序人生"]}
+{"title": "Tomcat内存分析相关方法(jmap和mat)", "link": "http://www.crazyant.net/1980.html", "tags": ["java", "tomcat"]}
+{"title": "如此重要但是经常被忽视的代码架构！", "link": "http://www.crazyant.net/1973.html", "tags": ["技术架构"]}
+{"title": "Stay hungry, Stay foolish", "link": "http://www.crazyant.net/1964.html", "tags": ["程序人生"]}
+{"title": "MAC挂载NTFS移动硬盘进行读写操作", "link": "http://www.crazyant.net/1961.html", "tags": ["mac"]}
+{"title": "工程师的月亮和六便士", "link": "http://www.crazyant.net/1957.html", "tags": ["程序人生"]}
+{"title": "MAC环境堪比Visio的画图神器", "link": "http://www.crazyant.net/1946.html", "tags": ["mac"]}
+{"title": "Log4j将不同Package的日志输出到不同的文件的方法", "link": "http://www.crazyant.net/1931.html", "tags": ["java", "log4j"]}
+{"title": "数据处理中提升性能的方法-引入并发但是避免同步", "link": "http://www.crazyant.net/1922.html", "tags": ["java", "php", "python", "shell", "大数据", "数据处理"]}
+{"title": "MySQL导入导出数据时遇到Tab符号和换行符号怎么办？", "link": "http://www.crazyant.net/1901.html", "tags": ["mysql", "python"]}
+{"title": "使用PHPUnit编写PHP单元测试的方法", "link": "http://www.crazyant.net/1898.html", "tags": ["php"]}
+{"title": "Bash Shell怎样检查文件是否存在？", "link": "http://www.crazyant.net/1895.html", "tags": ["linux", "shell"]}
+{"title": "Python使用unittest实现简单的单元测试实例", "link": "http://www.crazyant.net/1890.html", "tags": ["python", "单测"]}
+{"title": "将Maven工程打包成可执行JAR包的方法", "link": "http://www.crazyant.net/1886.html", "tags": ["java", "maven"]}
+{"title": "Java线程死亡的几种情况", "link": "http://www.crazyant.net/1861.html", "tags": ["java"]}
+{"title": "通过JVM堆栈分析出现大量线程的原因", "link": "http://www.crazyant.net/1858.html", "tags": ["java", "jvm"]}
+{"title": "想要加悲观锁可是数据行还不存在怎么办？", "link": "http://www.crazyant.net/1835.html", "tags": ["java", "并发控制"]}
+{"title": "Java堆溢出OutOfMemoryError之代码实例和原因分析", "link": "http://www.crazyant.net/1810.html", "tags": ["java", "jvm"]}
+{"title": "Python中文转拼音代码(支持全拼和首字母缩写)", "link": "http://www.crazyant.net/1789.html", "tags": ["python"]}
+{"title": "使用javap命令或者eclipse的Bytecode visualizer插件阅读java字节码文件", "link": "http://www.crazyant.net/1784.html", "tags": ["java"]}
+{"title": "Java怎样单测void类型的方法？", "link": "http://www.crazyant.net/1782.html", "tags": ["java"]}
+{"title": "《解忧杂货店》- 解答心中已经有结论的疑问", "link": "http://www.crazyant.net/1777.html", "tags": ["程序人生"]}
+{"title": "有了事务为什么还需要乐观锁和悲观锁", "link": "http://www.crazyant.net/1763.html", "tags": ["mysql", "数据库"]}
+{"title": "数据库并发控制机制的理解", "link": "http://www.crazyant.net/1741.html", "tags": ["事务"]}
+{"title": "读书破万卷，代码如有神", "link": "http://www.crazyant.net/1735.html", "tags": ["java", "阅读"]}
+{"title": "《Spring in action》3rd中SpringPizza项目的运行方法", "link": "http://www.crazyant.net/1722.html", "tags": ["spring"]}
+{"title": "做设计就像创世界", "link": "http://www.crazyant.net/1712.html", "tags": ["程序人生", "设计"]}
+{"title": "Python使用list字段模式或者dict字段模式读取文件的方法", "link": "http://www.crazyant.net/1707.html", "tags": ["python"]}
+{"title": "Java怎样创建两个KEY（key-pair）的MAP", "link": "http://www.crazyant.net/1703.html", "tags": ["java"]}
+{"title": "《超体》中的哲学", "link": "http://www.crazyant.net/1697.html", "tags": ["思考"]}
+{"title": "Java枚举类型代码的二逼写法和艺术写法", "link": "http://www.crazyant.net/1689.html", "tags": ["java"]}
+{"title": "Python操作MySQL视频教程", "link": "http://www.crazyant.net/1664.html", "tags": ["mysql", "python", "视频"]}
+{"title": "Hive开发经验问答式总结", "link": "http://www.crazyant.net/1625.html", "tags": ["hive"]}
+{"title": "将普通Maven Spring项目转换成Web项目的方法", "link": "http://www.crazyant.net/1607.html", "tags": ["java", "maven"]}
+{"title": "Hive取非Group by字段数据的方法", "link": "http://www.crazyant.net/1600.html", "tags": ["hive"]}
+{"title": "MySQL执行Select语句将结果导出到文件的方法", "link": "http://www.crazyant.net/1587.html", "tags": ["mysql"]}
+{"title": "Hive的left join、left outer join和left semi join三者的区别", "link": "http://www.crazyant.net/1470.html", "tags": ["hive"]}
+{"title": "将网站的创意变成钱的过程", "link": "http://www.crazyant.net/1465.html", "tags": ["站长"]}
+{"title": "从产品和技术的对比想到的", "link": "http://www.crazyant.net/1459.html", "tags": ["程序人生"]}
+{"title": "Hive中Order by和Sort by的区别是什么?", "link": "http://www.crazyant.net/1456.html", "tags": ["hive"]}
+{"title": "向Hive程序传递变量的三种方法", "link": "http://www.crazyant.net/1451.html", "tags": ["hive"]}
+{"title": "把HIVE程序优化30倍的经验", "link": "http://www.crazyant.net/1440.html", "tags": ["hive"]}
+{"title": "Hive使用TRANSFORM运行Python脚本总结", "link": "http://www.crazyant.net/1437.html", "tags": ["hive"]}
+{"title": "MySQL 查看数据库中每个表占用的空间大小", "link": "http://www.crazyant.net/1428.html", "tags": ["mysql"]}
+{"title": "Java使用lombok自动生成getter和setter方法", "link": "http://www.crazyant.net/1426.html", "tags": ["java"]}
+{"title": "MapReduce文件切分个数计算方法", "link": "http://www.crazyant.net/1423.html", "tags": ["hadoop"]}
+{"title": "《大数据时代》是一部科幻小说", "link": "http://www.crazyant.net/1413.html", "tags": ["hadoop"]}
+{"title": "[转]Hive中对group结果分组取limit N值的实现", "link": "http://www.crazyant.net/1409.html", "tags": ["hive"]}
+{"title": "HIVE的几个使用技巧", "link": "http://www.crazyant.net/1404.html", "tags": ["hive"]}
+{"title": "Python批量重命名文件的方法", "link": "http://www.crazyant.net/1397.html", "tags": ["python"]}
+{"title": "Python内置函数map、reduce、filter在文本处理中的应用", "link": "http://www.crazyant.net/1390.html", "tags": ["python"]}
+{"title": "chrome自动刷新网页插件：Auto Refresh Plus", "link": "http://www.crazyant.net/1372.html", "tags": ["chrome"]}
+{"title": "MySQL数据导入导出实例教程手册", "link": "http://www.crazyant.net/1355.html", "tags": ["mysql"]}
+{"title": "MySQL一条语句更新多个表的方法", "link": "http://www.crazyant.net/1345.html", "tags": ["mysql"]}
+{"title": "mysql根据A表更新B表的方法", "link": "http://www.crazyant.net/1337.html", "tags": ["mysql", "python"]}
+{"title": "[织梦DEDE迁移]读取织梦MySQL生成所有文章链接", "link": "http://www.crazyant.net/1326.html", "tags": ["织梦"]}
+{"title": "Python访问MySQL封装的常用类", "link": "http://www.crazyant.net/1321.html", "tags": ["mysql", "python"]}
+{"title": "python执行shell的两种方法", "link": "http://www.crazyant.net/1319.html", "tags": ["python", "shell"]}
+{"title": "Python封装的常用日期函数", "link": "http://www.crazyant.net/1309.html", "tags": ["python"]}
+{"title": "python子类调用父类的方法", "link": "http://www.crazyant.net/1303.html", "tags": ["python"]}
+{"title": "wordpress按层级方式显示分类链接的方法", "link": "http://www.crazyant.net/1297.html", "tags": ["wordpress"]}
+{"title": "Firefox数据采集插件大全", "link": "http://www.crazyant.net/1292.html", "tags": ["数据采集", "爬虫"]}
+{"title": "Python生成文件md5校验值函数", "link": "http://www.crazyant.net/1216.html", "tags": ["python"]}
+{"title": "网站从织梦DEDECMS迁移到WordPress过程以及URL重定向方法", "link": "http://www.crazyant.net/1214.html", "tags": ["织梦"]}
+{"title": "shell/hadoop/hive一些有用命令收集", "link": "http://www.crazyant.net/1209.html", "tags": ["hadoop", "hive", "mysql", "shell"]}
+{"title": "Hive开发中使用变量的两种方法", "link": "http://www.crazyant.net/1203.html", "tags": ["hive"]}
+{"title": "hive从查询中获取数据插入到表或动态分区", "link": "http://www.crazyant.net/1197.html", "tags": ["hive"]}
+{"title": "Hive元数据存于mysql中文乱码解决", "link": "http://www.crazyant.net/1193.html", "tags": ["hive", "mysql"]}
+{"title": "为eclipse安装python、shell开发环境和SVN插件", "link": "http://www.crazyant.net/1185.html", "tags": ["python", "shell"]}
+{"title": "hadoop第一个程序WordCount.java的编译运行过程", "link": "http://www.crazyant.net/1144.html", "tags": ["hadoop"]}
+{"title": "MYSQL向数据表插入默认字段值的方法", "link": "http://www.crazyant.net/1129.html", "tags": ["mysql"]}
+{"title": "Hadoop-Streaming实战经验及问题解决方法总结", "link": "http://www.crazyant.net/1122.html", "tags": ["hadoop"]}
+{"title": "Hadoop之使用python实现数据集合间join操作", "link": "http://www.crazyant.net/1112.html", "tags": ["hadoop", "python"]}
+{"title": "Rational Rose根据Java代码自动生成类图（教程和错误解决）", "link": "http://www.crazyant.net/1094.html", "tags": ["java"]}
+{"title": "MathType(数学公式编辑器) 汉化绿色版V6.7下载", "link": "http://www.crazyant.net/1088.html", "tags": ["mathtype"]}
+{"title": "JSP使用JNA调用DLL函数遇到的几个问题", "link": "http://www.crazyant.net/1072.html", "tags": ["java"]}
+{"title": "读《疯狂的站长》- 回顾反思我的个人站长路", "link": "http://www.crazyant.net/1066.html", "tags": ["站长"]}
+{"title": "给计算机专业求职的同学推荐几本书", "link": "http://www.crazyant.net/1064.html", "tags": ["程序人生"]}
+{"title": "MySQL数据库存储过程教程", "link": "http://www.crazyant.net/1061.html", "tags": ["mysql"]}
+{"title": "Magento获取指定分类下的所有子分类信息", "link": "http://www.crazyant.net/1057.html", "tags": ["magento", "php"]}
+{"title": "WIN7使用VisualSVN建立SVN服务器", "link": "http://www.crazyant.net/1055.html", "tags": ["svn", "win7"]}
+{"title": "织梦DEDECMS简洁蓝色模板免费下载（资讯文章类）", "link": "http://www.crazyant.net/1044.html", "tags": ["织梦"]}
+{"title": "Django基本命令最全收集", "link": "http://www.crazyant.net/1036.html", "tags": ["django", "python"]}
+{"title": "2012年百度、腾讯、微软、奇虎360、人人、去哪网找工作经历总结", "link": "http://www.crazyant.net/1030.html", "tags": ["程序人生"]}
+{"title": "PHP对数组的高级遍历和操作处理方法", "link": "http://www.crazyant.net/1022.html", "tags": ["php"]}
+{"title": "使用PHP连接、操纵Memcached的原理和教程", "link": "http://www.crazyant.net/1014.html", "tags": ["memcached", "php", "数据库"]}
+{"title": "Django关于站点管理Admin Site的常见问题解决方法", "link": "http://www.crazyant.net/1005.html", "tags": ["django", "python"]}
+{"title": "对Django框架架构和Request/Response处理流程的分析", "link": "http://www.crazyant.net/1001.html", "tags": ["django", "python"]}
+{"title": "PHP开发者最好的学习资源收集", "link": "http://www.crazyant.net/970.html", "tags": ["php"]}
+{"title": "Ubuntu10.10 Server+Nginx+Django+Postgresql安装步骤", "link": "http://www.crazyant.net/955.html", "tags": ["django", "ngnix", "ubuntu"]}
+{"title": "PHP和MySQL处理树状、分级、无限分类、分层数据的方法", "link": "http://www.crazyant.net/930.html", "tags": ["mysql", "php"]}
+{"title": "PHP创建和解析JSON数据的方法", "link": "http://www.crazyant.net/920.html", "tags": ["json", "php"]}
+{"title": "程序员做开发，前台、后台、测试哪个累？", "link": "http://www.crazyant.net/914.html", "tags": ["程序人生"]}
+{"title": "PHP的验证码实现（w3schools推荐）", "link": "http://www.crazyant.net/912.html", "tags": ["php", "验证码"]}
+{"title": "国外10个非常有趣的PHP博客", "link": "http://www.crazyant.net/897.html", "tags": ["php"]}
+{"title": "PHP读写Word文件的最佳类库收集", "link": "http://www.crazyant.net/886.html", "tags": ["php", "word"]}
+{"title": "2012年度读写Excel文件的最佳PHP类库收集", "link": "http://www.crazyant.net/874.html", "tags": ["excel", "php"]}
+{"title": "使用Google搭建自己的SVN或Git或Mercurial代码服务器之完美教程", "link": "http://www.crazyant.net/855.html", "tags": ["git", "svn"]}
+{"title": "PHP远程操纵WordPress的方法(流程剖析）", "link": "http://www.crazyant.net/821.html", "tags": ["php", "wordpress"]}
+{"title": "Python模拟登陆新浪微博并实现投票功能", "link": "http://www.crazyant.net/818.html", "tags": ["python", "爬虫"]}
+{"title": "Django中定制自己的User和Group管理模块（类似对admin的二次开发）", "link": "http://www.crazyant.net/814.html", "tags": ["django", "python"]}
+{"title": "django1.4设置模板路径和CSS,JS,image等路径的方法", "link": "http://www.crazyant.net/811.html", "tags": ["django", "python"]}
+{"title": "珠玑：在仔细研究数据的基础上得出程序的结构", "link": "http://www.crazyant.net/808.html", "tags": ["算法"]}
+{"title": "Python使用cookielib和urllib2模拟登陆新浪微博并抓取数据", "link": "http://www.crazyant.net/796.html", "tags": ["python", "模拟登陆", "爬虫"]}
+{"title": "《SEO实战密码》高清电子版PDF下载地址（SEO学习必备）", "link": "http://www.crazyant.net/790.html", "tags": ["seo"]}
+{"title": "重装Win7后恢复和找回Ubuntu启动项", "link": "http://www.crazyant.net/781.html", "tags": ["linux", "ubuntu", "win7"]}
+{"title": "putty连接linux出现中文乱码的解决方法", "link": "http://www.crazyant.net/756.html", "tags": ["python", "ubuntu"]}
+{"title": "Ubuntu 安装 PostgreSQL 和 python-psycopg2基础教程（以及错误解决）", "link": "http://www.crazyant.net/754.html", "tags": ["ubuntu"]}
+{"title": "eclipse远程发布代码的方法（SSH自动同步）", "link": "http://www.crazyant.net/749.html", "tags": ["eclipse", "python"]}
+{"title": "python在linux下安装方法（解决旧版本冲突）", "link": "http://www.crazyant.net/747.html", "tags": ["linux", "python"]}
+{"title": "2012年度PHP最佳类库收集", "link": "http://www.crazyant.net/740.html", "tags": ["php"]}
+{"title": "php判断远程文件或网站是否能打开", "link": "http://www.crazyant.net/734.html", "tags": ["php"]}
+{"title": "PHP数据采集之使用CURL、DOMDocument和DOMXPath", "link": "http://www.crazyant.net/731.html", "tags": ["php", "爬虫"]}
+{"title": "Python关于apply的知识", "link": "http://www.crazyant.net/724.html", "tags": ["python"]}
+{"title": "Python知识之什么是*args和**kwargs？", "link": "http://www.crazyant.net/722.html", "tags": ["python"]}
+{"title": "PHP魔法方法之__sleep()方法和__wakeup()方法", "link": "http://www.crazyant.net/717.html", "tags": ["php"]}
+{"title": "Python中的操作符重载", "link": "http://www.crazyant.net/712.html", "tags": ["python"]}
+{"title": "数据采集简单示例：采集爱帮网电话号码", "link": "http://www.crazyant.net/707.html", "tags": ["php", "爬虫"]}
+{"title": "数据采集技术之在Python中Libxml模块安装与使用XPath", "link": "http://www.crazyant.net/700.html", "tags": ["python", "爬虫"]}
+{"title": "Python操作Mysql实例代码教程（查询手册）", "link": "http://www.crazyant.net/686.html", "tags": ["mysql", "python", "数据库"]}
+{"title": "MySQL-python Windows下EXE安装文件下载", "link": "http://www.crazyant.net/678.html", "tags": ["python"]}
+{"title": "数据采集必备知识-php计划任务的实现", "link": "http://www.crazyant.net/675.html", "tags": ["php", "爬虫"]}
+{"title": "个人博客SEO第一步-提交自己的网站", "link": "http://www.crazyant.net/658.html", "tags": ["seo"]}
+{"title": "情理之中又意料之外的超强减肥方法", "link": "http://www.crazyant.net/655.html", "tags": ["程序人生"]}
+{"title": "新浪微博的mid转换成base62格式的PHP函数", "link": "http://www.crazyant.net/647.html", "tags": ["php", "爬虫"]}
+{"title": "windows下PHP环境（apache,PHP,Mysql）详细配置方法", "link": "http://www.crazyant.net/639.html", "tags": ["apache", "mysql", "php", "windows"]}
+{"title": "PHP100视频教程2012版解压密码", "link": "http://www.crazyant.net/636.html", "tags": ["php"]}
+{"title": "Redis+Mysql模式和内存+硬盘模式的异同", "link": "http://www.crazyant.net/629.html", "tags": ["mysql", "redis"]}
+{"title": "Redis详细完整教程-windows下的安装、测试(php+redis+mysql)", "link": "http://www.crazyant.net/611.html", "tags": ["mysql", "php", "redis"]}
+{"title": "Windows Live Writer快捷方式（打开服务器文档等）", "link": "http://www.crazyant.net/604.html", "tags": ["wordpress"]}
+{"title": "PHP字符串函数、知识要点总结", "link": "http://www.crazyant.net/600.html", "tags": ["php"]}
+{"title": "PHP数组使用、特性、函数的总结", "link": "http://www.crazyant.net/591.html", "tags": ["php"]}
+{"title": "PHP对文件的操作总结", "link": "http://www.crazyant.net/581.html", "tags": ["php"]}
+{"title": "PHP操作符可变变量测试变量等总结", "link": "http://www.crazyant.net/576.html", "tags": ["php"]}
+{"title": "有句话说的非常好", "link": "http://www.crazyant.net/548.html", "tags": ["程序人生"]}
+{"title": "[C++]数据结构之堆-上滤下滤以及用于排序", "link": "http://www.crazyant.net/545.html", "tags": ["c++"]}
+{"title": "C++拆分字符串代码（实现split）", "link": "http://www.crazyant.net/540.html", "tags": ["c++"]}
+{"title": "看完这20部电影相当于学了经济学（投资理财必看电影）", "link": "http://www.crazyant.net/515.html", "tags": ["程序人生"]}
+{"title": "Adobe Dreamweaver CS6官方简体中文版安装+破解过程", "link": "http://www.crazyant.net/512.html", "tags": ["dreamweaver"]}
+{"title": "win7系统笔记本设置成虚拟WiFi热点（即“无线路由器”）", "link": "http://www.crazyant.net/505.html", "tags": ["win7"]}
+{"title": "按大小拆分超大文件的方法（本文测试了一个62G的文件）", "link": "http://www.crazyant.net/502.html", "tags": ["linux", "shell"]}
+{"title": "Dedecms备份还原网站有效方法", "link": "http://www.crazyant.net/499.html", "tags": ["织梦"]}
+{"title": "WIN7下硬盘安装Ubuntu 11.10系统成功", "link": "http://www.crazyant.net/495.html", "tags": ["ubuntu", "win7"]}
+{"title": "程序员找工作网啊站-计算机专业学生必看", "link": "http://www.crazyant.net/491.html", "tags": ["程序人生"]}
+{"title": "被深深鄙视的2012找暑期实习，哥很伤心", "link": "http://www.crazyant.net/485.html", "tags": ["程序人生"]}
+{"title": "phpmyadmin远程连接mysql数据库的方法", "link": "http://www.crazyant.net/483.html", "tags": ["mysql", "php"]}
+{"title": "mysql用命令行链接远程主机的方法", "link": "http://www.crazyant.net/480.html", "tags": ["mysql"]}
+{"title": "c/c++批量向mysql插入数据", "link": "http://www.crazyant.net/478.html", "tags": ["c++", "mysql"]}
+{"title": "[站长]推荐一个网页分享按钮条插件JiaThis", "link": "http://www.crazyant.net/471.html", "tags": ["站长"]}
+{"title": "[网址]在线转换编码-BASE64_URLENCODE等", "link": "http://www.crazyant.net/466.html", "tags": ["算法"]}
+{"title": "[PHP]发送邮件方法介绍和代码示例", "link": "http://www.crazyant.net/454.html", "tags": ["email", "php"]}
+{"title": "[C++]win32输出当前系统时间函数，可用以程序计时", "link": "http://www.crazyant.net/449.html", "tags": ["c++"]}
+{"title": "[转]office – word2010每次打开弹出配置框解决方法", "link": "http://www.crazyant.net/444.html", "tags": ["office", "word"]}
+{"title": "Linux下GCC和Makefile实例（从GCC的编译到Makefile的引入）", "link": "http://www.crazyant.net/414.html", "tags": ["linux"]}
+{"title": "让QT支持中文的方法", "link": "http://www.crazyant.net/410.html", "tags": ["qt"]}
+{"title": "QT-creater一个非常棒的教程", "link": "http://www.crazyant.net/408.html", "tags": ["qt"]}
+{"title": "玩大灾变出现“igxprd32显示驱动程序已经停止正常工作”解决方法", "link": "http://www.crazyant.net/402.html", "tags": ["魔兽世界"]}
+{"title": "在GATE工具中使用自己的XSD模式进行语义标注", "link": "http://www.crazyant.net/391.html", "tags": ["gate"]}
+{"title": "C++ Primer 4th：第九章 《顺序容器》学习心得", "link": "http://www.crazyant.net/381.html", "tags": ["c++"]}
+{"title": "win7下快速硬盘安装ghost xp的方法", "link": "http://www.crazyant.net/259.html", "tags": ["win7"]}
+{"title": "C++实现字符串与数字的连接", "link": "http://www.crazyant.net/254.html", "tags": ["c++"]}
+{"title": "c++字符集之间转换(UTF-8,UNICODE,Gb2312)", "link": "http://www.crazyant.net/251.html", "tags": ["c++"]}
+{"title": "数据采集利器-PHP用DOM方式处理HTML之《Simple HTML DOM》", "link": "http://www.crazyant.net/245.html", "tags": ["php", "爬虫"]}
+{"title": "C++数组类型学习笔记", "link": "http://www.crazyant.net/236.html", "tags": ["c++"]}
+{"title": "C++标准库string类型学习笔记", "link": "http://www.crazyant.net/234.html", "tags": ["c++"]}
+{"title": "9个高质量图标的最佳搜索引擎", "link": "http://www.crazyant.net/224.html", "tags": ["设计"]}
+{"title": "navicat-MySQL前台管理工具利器", "link": "http://www.crazyant.net/219.html", "tags": ["mysql"]}
+{"title": "17个非常有用的PHP类和库", "link": "http://www.crazyant.net/215.html", "tags": ["php", "类库"]}
+{"title": "使用DEDE的全国地区分类导入到其它CMS", "link": "http://www.crazyant.net/210.html", "tags": ["php"]}
+{"title": "对自己将来的一些思考", "link": "http://www.crazyant.net/206.html", "tags": ["程序人生"]}
+{"title": "推荐一个可以用u盘安装fedora,ubuntu等Linux的工具", "link": "http://www.crazyant.net/204.html", "tags": ["linux"]}
+{"title": "ubuntu官方live cd和dvd下载地址", "link": "http://www.crazyant.net/198.html", "tags": ["ubuntu"]}
+{"title": "非常好用的一款磁盘管理工具Acronis Disk Director Suite", "link": "http://www.crazyant.net/195.html", "tags": ["操作系统"]}
+{"title": "jQuery圆角工具jQuery Corner", "link": "http://www.crazyant.net/191.html", "tags": ["jquery"]}
+{"title": "筛选出来的常用jQuery幻灯片插件", "link": "http://www.crazyant.net/179.html", "tags": ["jquery"]}
+{"title": "PHP-浏览器参数防注入检测函数", "link": "http://www.crazyant.net/161.html", "tags": ["php"]}
+{"title": "PHP从checkbox取值", "link": "http://www.crazyant.net/159.html", "tags": ["php"]}
+{"title": "毕业设计出现的一个严重错误—-文件不能相互引用", "link": "http://www.crazyant.net/157.html", "tags": ["程序人生"]}
+{"title": "php函数-计算两个日期相差多少天", "link": "http://www.crazyant.net/155.html", "tags": ["php"]}
+{"title": "Apache禁止目录访问方法介绍", "link": "http://www.crazyant.net/153.html", "tags": ["apache"]}
+{"title": "PHP操作EXCEL相关", "link": "http://www.crazyant.net/151.html", "tags": ["php"]}
+{"title": "phpexcel-自己写的几个非常好用的函数", "link": "http://www.crazyant.net/149.html", "tags": ["php"]}
+{"title": "Fckeditor-动态增减按钮的方法", "link": "http://www.crazyant.net/146.html", "tags": ["fckeditor"]}
+{"title": "PHP验证码-类", "link": "http://www.crazyant.net/144.html", "tags": ["php"]}
+{"title": "mysql-修改root密码的方法", "link": "http://www.crazyant.net/142.html", "tags": ["mysql"]}
+{"title": "获取服务器传来的数据-必须用JS去空格", "link": "http://www.crazyant.net/138.html", "tags": ["javascript"]}
+{"title": "php实现当前用户在线人数", "link": "http://www.crazyant.net/136.html", "tags": ["php"]}
+{"title": "网上选课系统-进度", "link": "http://www.crazyant.net/134.html", "tags": ["程序人生"]}
+{"title": "屏幕取色工具", "link": "http://www.crazyant.net/132.html", "tags": ["工具软件"]}
+{"title": "PHP-非常好用的文件操作类", "link": "http://www.crazyant.net/130.html", "tags": ["php"]}
+{"title": "PHP删除无限分类并同时删除它下面的所有子分类的方法", "link": "http://www.crazyant.net/128.html", "tags": ["php"]}
+{"title": "PHP获取IP的多种方式解析", "link": "http://www.crazyant.net/126.html", "tags": ["php"]}
+{"title": "Javascript trim()函数实现", "link": "http://www.crazyant.net/124.html", "tags": ["javascript"]}
+{"title": "PHP只下载不打开文件", "link": "http://www.crazyant.net/122.html", "tags": ["php"]}
+{"title": "日期选择控件-date_input", "link": "http://www.crazyant.net/119.html", "tags": ["javascript"]}
+{"title": "项目经历2-电子台账系统", "link": "http://www.crazyant.net/117.html", "tags": ["程序人生"]}
+{"title": "删除记录之前-切记要检查是不是存在该记录", "link": "http://www.crazyant.net/115.html", "tags": ["mysql"]}
+{"title": "phpmyadmin无法加载mcrypt的解决方法", "link": "http://www.crazyant.net/113.html", "tags": ["mysql", "phpmyadmin", "数据库"]}
+{"title": "AJAX中文乱码PHP完美解决(IE和Firefox兼容)", "link": "http://www.crazyant.net/111.html", "tags": ["javascript", "php"]}
+{"title": "java环境变量配置", "link": "http://www.crazyant.net/109.html", "tags": ["java"]}
+{"title": "PHP输出Excel实例代码", "link": "http://www.crazyant.net/107.html", "tags": ["excel", "php"]}
+{"title": "PHP安全笔记", "link": "http://www.crazyant.net/105.html", "tags": ["php", "安全"]}
+{"title": "文件下载代码-来自PBDigg", "link": "http://www.crazyant.net/103.html", "tags": ["php"]}
+{"title": "PHP中文乱码解决", "link": "http://www.crazyant.net/99.html", "tags": ["php"]}
+{"title": "PHP IE下载时提示”无法复制 无法读取源文件或磁盘”的解决办法", "link": "http://www.crazyant.net/97.html", "tags": ["php"]}
+{"title": "搜索关键词高亮显示", "link": "http://www.crazyant.net/94.html", "tags": ["javascript"]}
+{"title": "vi编辑器命令", "link": "http://www.crazyant.net/91.html", "tags": ["linux", "vim"]}
+{"title": "硬盘分区表丢失、修复大事记–分区表修复利器testdisk", "link": "http://www.crazyant.net/87.html", "tags": ["操作系统"]}
+{"title": "linux下禁止机箱蜂鸣方法", "link": "http://www.crazyant.net/85.html", "tags": ["linux"]}
+{"title": "当用header方法输出内容时出现“Cannot modify header information – headers already sent by”的解决方法", "link": "http://www.crazyant.net/83.html", "tags": ["php"]}
+{"title": "JavaScript对Select的子元素Option的操作", "link": "http://www.crazyant.net/78.html", "tags": ["javascript"]}
