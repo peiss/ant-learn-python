@@ -14,7 +14,4 @@ CREATE TABLE `user` (
 
 INSERT INTO `user`
 VALUES (1,'xiaoming','man',21,'xiaoming@qq.com'),
-(2,'xiaohong','women',22,'xiaohong@qq.com'),
-(3,'xiaomei','women',18,'xiaomei@qq.com'),
-(4,'daming','man',30,'daming@qq.com'),
-(5,'dawang','man',30,'dawang@qq.com');
+(2,'xiaohong','women',22,'xiaohong@qq.com');
