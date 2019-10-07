@@ -1,0 +1,3 @@
+max value:99
+min value:0
+avg value:42.03333333333333
