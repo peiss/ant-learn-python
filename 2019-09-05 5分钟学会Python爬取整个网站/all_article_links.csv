@@ -1,0 +1,259 @@
+id	title	tags
+2585	Tensorflow怎样接收变长列表特征	python,tensorflow,特征工程
+2583	Pandas实现数据的合并concat	pandas,python,数据分析
+2574	Pandas的Index索引有什么用途？	pandas,python,数据分析
+2564	机器学习常用数据集大全	python,机器学习
+2561	一个数据科学家的修炼路径	数据分析
+2546	Pandas的axis参数怎么理解？	pandas,python,数据分析
+2541	Pandas怎样处理字符串？	pandas,python,数据分析
+2536	Pandas怎样对数据进行排序？	pandas,python,数据分析
+2534	CTR预估：(标签-权重)列表类特征怎么输入到模型？	python,机器学习
+2532	Pandas对缺失值的处理	pandas,python,数据分析
+2528	Pandas的SettingWithCopyWarning报警怎么回事？	pandas,python,数据分析
+2525	3分钟Python爬取9000张表情包图片	python,爬虫
+2523	Pandas系列 – 怎样新增数据列？	pandas,python
+2521	Pandas系列 – 数据统计函数	pandas,python,数据分析
+2517	Pandas怎样根据码表更新ID对应的名称？	pandas
+2515	Pandas怎样按条件删除行？	pandas,python
+2506	Pandas系列-查询数据的5种方法	pandas,python,数据分析
+2502	Pandas系列-DataFrame和Series数据结构	pandas,python,数据分析
+2499	Pandas系列-读取csv/excel/mysql数据	pandas,python,数据分析
+2469	Spark使用Java开发遇到的那些类型错误	java,spark
+2454	推荐系统：实现文章相似推荐的简单实例	pandas,python,sklearn,推荐系统
+2447	Spark使用word2vec训练item2vec实现内容相关推荐	item2vec,java,推荐系统
+2434	Pandas中对轴axis=0和axis=1的理解	pandas,python
+2419	Flask使用Pyecharts在单个页面展示多个图表	echarts,flask,pyecharts,python
+2404	听樊登的《非暴力沟通》	程序人生
+2367	Java和Python使用Grpc访问Tensorflow的Serving代码	java,python,tensorflow
+2351	推荐系统：怎样实现内容相似推荐	推荐系统
+2343	Flask怎样从其他Python文件导入app.route视图函数	flask,python
+2336	我为什么从工程转了算法？	大数据,程序人生,算法
+2324	推荐系统：爱奇艺知识推荐系统架构	推荐系统
+2303	Spark使用JAVA编写自定义函数修改DataFrame	java,mysql,spark
+2301	tensorflow怎样输入具有多个值的特征	python,tensorflow
+2283	Python3用scan和delete命令批量清理redis数据	python,redis
+2273	CentOS自己编译安装Python3的命令	python,shell
+2261	PyCharm开发PySpark程序的配置和实例	pyspark,python,spark
+2231	Spark数据倾斜解决方法	spark
+2194	读书笔记 – 数据驱动从方法到实践	人工智能,大数据,数据驱动
+2177	使用PaddlePaddle搭建卷积网络做文本数据分类	paddlepaddle,机器学习
+2167	使用Kmeans对Word2vec的输出做聚类	机器学习,聚类
+2160	Hive实现返回MAP的UDF	hive
+2150	Python高级编程技巧	python
+2145	快速找到Tomcat中最耗CPU的线程	java,jvm,tomcat
+2124	Java线程池ThreadPoolExecutor详解	java
+2120	Zookeeper并不保证读取的是最新数据	zookeeper
+2089	Mybatis源码解读-初始化过程详解	mybatis
+2076	怎样借助Python爬虫给宝宝起个好名字	python,爬虫
+2022	Mybatis源码解读-设计模式总结	mybatis,设计模式
+2012	打工者心态、主人公意识、个人公司品牌	程序人生
+1980	Tomcat内存分析相关方法(jmap和mat)	java,tomcat
+1973	如此重要但是经常被忽视的代码架构！	技术架构
+1964	Stay hungry, Stay foolish	程序人生
+1961	MAC挂载NTFS移动硬盘进行读写操作	mac
+1957	工程师的月亮和六便士	程序人生
+1946	MAC环境堪比Visio的画图神器	mac
+1931	Log4j将不同Package的日志输出到不同的文件的方法	java,log4j
+1922	数据处理中提升性能的方法-引入并发但是避免同步	java,php,python,shell,大数据,数据处理
+1901	MySQL导入导出数据时遇到Tab符号和换行符号怎么办？	mysql,python
+1898	使用PHPUnit编写PHP单元测试的方法	php
+1895	Bash Shell怎样检查文件是否存在？	linux,shell
+1890	Python使用unittest实现简单的单元测试实例	python,单测
+1886	将Maven工程打包成可执行JAR包的方法	java,maven
+1861	Java线程死亡的几种情况	java
+1858	通过JVM堆栈分析出现大量线程的原因	java,jvm
+1835	想要加悲观锁可是数据行还不存在怎么办？	java,并发控制
+1810	Java堆溢出OutOfMemoryError之代码实例和原因分析	java,jvm
+1789	Python中文转拼音代码(支持全拼和首字母缩写)	python
+1784	使用javap命令或者eclipse的Bytecode visualizer插件阅读java字节码文件	java
+1782	Java怎样单测void类型的方法？	java
+1777	《解忧杂货店》- 解答心中已经有结论的疑问	程序人生
+1763	有了事务为什么还需要乐观锁和悲观锁	mysql,数据库
+1741	数据库并发控制机制的理解	事务
+1735	读书破万卷，代码如有神	java,阅读
+1722	《Spring in action》3rd中SpringPizza项目的运行方法	spring
+1712	做设计就像创世界	程序人生,设计
+1707	Python使用list字段模式或者dict字段模式读取文件的方法	python
+1703	Java怎样创建两个KEY（key-pair）的MAP	java
+1697	《超体》中的哲学	思考
+1689	Java枚举类型代码的二逼写法和艺术写法	java
+1664	Python操作MySQL视频教程	mysql,python,视频
+1625	Hive开发经验问答式总结	hive
+1607	将普通Maven Spring项目转换成Web项目的方法	java,maven
+1600	Hive取非Group by字段数据的方法	hive
+1587	MySQL执行Select语句将结果导出到文件的方法	mysql
+1470	Hive的left join、left outer join和left semi join三者的区别	hive
+1465	将网站的创意变成钱的过程	站长
+1459	从产品和技术的对比想到的	程序人生
+1456	Hive中Order by和Sort by的区别是什么?	hive
+1451	向Hive程序传递变量的三种方法	hive
+1440	把HIVE程序优化30倍的经验	hive
+1437	Hive使用TRANSFORM运行Python脚本总结	hive
+1428	MySQL 查看数据库中每个表占用的空间大小	mysql
+1426	Java使用lombok自动生成getter和setter方法	java
+1423	MapReduce文件切分个数计算方法	hadoop
+1413	《大数据时代》是一部科幻小说	hadoop
+1409	[转]Hive中对group结果分组取limit N值的实现	hive
+1404	HIVE的几个使用技巧	hive
+1397	Python批量重命名文件的方法	python
+1390	Python内置函数map、reduce、filter在文本处理中的应用	python
+1372	chrome自动刷新网页插件：Auto Refresh Plus	chrome
+1355	MySQL数据导入导出实例教程手册	mysql
+1345	MySQL一条语句更新多个表的方法	mysql
+1337	mysql根据A表更新B表的方法	mysql,python
+1326	[织梦DEDE迁移]读取织梦MySQL生成所有文章链接	织梦
+1321	Python访问MySQL封装的常用类	mysql,python
+1319	python执行shell的两种方法	python,shell
+1309	Python封装的常用日期函数	python
+1303	python子类调用父类的方法	python
+1297	wordpress按层级方式显示分类链接的方法	wordpress
+1292	Firefox数据采集插件大全	数据采集,爬虫
+1216	Python生成文件md5校验值函数	python
+1214	网站从织梦DEDECMS迁移到WordPress过程以及URL重定向方法	织梦
+1209	shell/hadoop/hive一些有用命令收集	hadoop,hive,mysql,shell
+1203	Hive开发中使用变量的两种方法	hive
+1197	hive从查询中获取数据插入到表或动态分区	hive
+1193	Hive元数据存于mysql中文乱码解决	hive,mysql
+1185	为eclipse安装python、shell开发环境和SVN插件	python,shell
+1144	hadoop第一个程序WordCount.java的编译运行过程	hadoop
+1129	MYSQL向数据表插入默认字段值的方法	mysql
+1122	Hadoop-Streaming实战经验及问题解决方法总结	hadoop
+1112	Hadoop之使用python实现数据集合间join操作	hadoop,python
+1094	Rational Rose根据Java代码自动生成类图（教程和错误解决）	java
+1088	MathType(数学公式编辑器) 汉化绿色版V6.7下载	mathtype
+1072	JSP使用JNA调用DLL函数遇到的几个问题	java
+1066	读《疯狂的站长》- 回顾反思我的个人站长路	站长
+1064	给计算机专业求职的同学推荐几本书	程序人生
+1061	MySQL数据库存储过程教程	mysql
+1057	Magento获取指定分类下的所有子分类信息	magento,php
+1055	WIN7使用VisualSVN建立SVN服务器	svn,win7
+1044	织梦DEDECMS简洁蓝色模板免费下载（资讯文章类）	织梦
+1036	Django基本命令最全收集	django,python
+1030	2012年百度、腾讯、微软、奇虎360、人人、去哪网找工作经历总结	程序人生
+1022	PHP对数组的高级遍历和操作处理方法	php
+1014	使用PHP连接、操纵Memcached的原理和教程	memcached,php,数据库
+1005	Django关于站点管理Admin Site的常见问题解决方法	django,python
+1001	对Django框架架构和Request/Response处理流程的分析	django,python
+970	PHP开发者最好的学习资源收集	php
+955	Ubuntu10.10 Server+Nginx+Django+Postgresql安装步骤	django,ngnix,ubuntu
+930	PHP和MySQL处理树状、分级、无限分类、分层数据的方法	mysql,php
+920	PHP创建和解析JSON数据的方法	json,php
+914	程序员做开发，前台、后台、测试哪个累？	程序人生
+912	PHP的验证码实现（w3schools推荐）	php,验证码
+897	国外10个非常有趣的PHP博客	php
+886	PHP读写Word文件的最佳类库收集	php,word
+874	2012年度读写Excel文件的最佳PHP类库收集	excel,php
+855	使用Google搭建自己的SVN或Git或Mercurial代码服务器之完美教程	git,svn
+821	PHP远程操纵WordPress的方法(流程剖析）	php,wordpress
+818	Python模拟登陆新浪微博并实现投票功能	python,爬虫
+814	Django中定制自己的User和Group管理模块（类似对admin的二次开发）	django,python
+811	django1.4设置模板路径和CSS,JS,image等路径的方法	django,python
+808	珠玑：在仔细研究数据的基础上得出程序的结构	算法
+796	Python使用cookielib和urllib2模拟登陆新浪微博并抓取数据	python,模拟登陆,爬虫
+790	《SEO实战密码》高清电子版PDF下载地址（SEO学习必备）	seo
+781	重装Win7后恢复和找回Ubuntu启动项	linux,ubuntu,win7
+756	putty连接linux出现中文乱码的解决方法	python,ubuntu
+754	Ubuntu 安装 PostgreSQL 和 python-psycopg2基础教程（以及错误解决）	ubuntu
+749	eclipse远程发布代码的方法（SSH自动同步）	eclipse,python
+747	python在linux下安装方法（解决旧版本冲突）	linux,python
+740	2012年度PHP最佳类库收集	php
+734	php判断远程文件或网站是否能打开	php
+731	PHP数据采集之使用CURL、DOMDocument和DOMXPath	php,爬虫
+724	Python关于apply的知识	python
+722	Python知识之什么是*args和**kwargs？	python
+717	PHP魔法方法之__sleep()方法和__wakeup()方法	php
+712	Python中的操作符重载	python
+707	数据采集简单示例：采集爱帮网电话号码	php,爬虫
+700	数据采集技术之在Python中Libxml模块安装与使用XPath	python,爬虫
+686	Python操作Mysql实例代码教程（查询手册）	mysql,python,数据库
+678	MySQL-python Windows下EXE安装文件下载	python
+675	数据采集必备知识-php计划任务的实现	php,爬虫
+658	个人博客SEO第一步-提交自己的网站	seo
+655	情理之中又意料之外的超强减肥方法	程序人生
+647	新浪微博的mid转换成base62格式的PHP函数	php,爬虫
+639	windows下PHP环境（apache,PHP,Mysql）详细配置方法	apache,mysql,php,windows
+636	PHP100视频教程2012版解压密码	php
+629	Redis+Mysql模式和内存+硬盘模式的异同	mysql,redis
+611	Redis详细完整教程-windows下的安装、测试(php+redis+mysql)	mysql,php,redis
+604	Windows Live Writer快捷方式（打开服务器文档等）	wordpress
+600	PHP字符串函数、知识要点总结	php
+591	PHP数组使用、特性、函数的总结	php
+581	PHP对文件的操作总结	php
+576	PHP操作符可变变量测试变量等总结	php
+548	有句话说的非常好	程序人生
+545	[C++]数据结构之堆-上滤下滤以及用于排序	c++
+540	C++拆分字符串代码（实现split）	c++
+515	看完这20部电影相当于学了经济学（投资理财必看电影）	程序人生
+512	Adobe Dreamweaver CS6官方简体中文版安装+破解过程	dreamweaver
+505	win7系统笔记本设置成虚拟WiFi热点（即“无线路由器”）	win7
+502	按大小拆分超大文件的方法（本文测试了一个62G的文件）	linux,shell
+499	Dedecms备份还原网站有效方法	织梦
+495	WIN7下硬盘安装Ubuntu 11.10系统成功	ubuntu,win7
+491	程序员找工作网啊站-计算机专业学生必看	程序人生
+485	被深深鄙视的2012找暑期实习，哥很伤心	程序人生
+483	phpmyadmin远程连接mysql数据库的方法	mysql,php
+480	mysql用命令行链接远程主机的方法	mysql
+478	c/c++批量向mysql插入数据	c++,mysql
+471	[站长]推荐一个网页分享按钮条插件JiaThis	站长
+466	[网址]在线转换编码-BASE64_URLENCODE等	算法
+454	[PHP]发送邮件方法介绍和代码示例	email,php
+449	[C++]win32输出当前系统时间函数，可用以程序计时	c++
+444	[转]office – word2010每次打开弹出配置框解决方法	office,word
+414	Linux下GCC和Makefile实例（从GCC的编译到Makefile的引入）	linux
+410	让QT支持中文的方法	qt
+408	QT-creater一个非常棒的教程	qt
+402	玩大灾变出现“igxprd32显示驱动程序已经停止正常工作”解决方法	魔兽世界
+391	在GATE工具中使用自己的XSD模式进行语义标注	gate
+381	C++ Primer 4th：第九章 《顺序容器》学习心得	c++
+259	win7下快速硬盘安装ghost xp的方法	win7
+254	C++实现字符串与数字的连接	c++
+251	c++字符集之间转换(UTF-8,UNICODE,Gb2312)	c++
+245	数据采集利器-PHP用DOM方式处理HTML之《Simple HTML DOM》	php,爬虫
+236	C++数组类型学习笔记	c++
+234	C++标准库string类型学习笔记	c++
+224	9个高质量图标的最佳搜索引擎	设计
+219	navicat-MySQL前台管理工具利器	mysql
+215	17个非常有用的PHP类和库	php,类库
+210	使用DEDE的全国地区分类导入到其它CMS	php
+206	对自己将来的一些思考	程序人生
+204	推荐一个可以用u盘安装fedora,ubuntu等Linux的工具	linux
+198	ubuntu官方live cd和dvd下载地址	ubuntu
+195	非常好用的一款磁盘管理工具Acronis Disk Director Suite	操作系统
+191	jQuery圆角工具jQuery Corner	jquery
+179	筛选出来的常用jQuery幻灯片插件	jquery
+161	PHP-浏览器参数防注入检测函数	php
+159	PHP从checkbox取值	php
+157	毕业设计出现的一个严重错误—-文件不能相互引用	程序人生
+155	php函数-计算两个日期相差多少天	php
+153	Apache禁止目录访问方法介绍	apache
+151	PHP操作EXCEL相关	php
+149	phpexcel-自己写的几个非常好用的函数	php
+146	Fckeditor-动态增减按钮的方法	fckeditor
+144	PHP验证码-类	php
+142	mysql-修改root密码的方法	mysql
+138	获取服务器传来的数据-必须用JS去空格	javascript
+136	php实现当前用户在线人数	php
+134	网上选课系统-进度	程序人生
+132	屏幕取色工具	工具软件
+130	PHP-非常好用的文件操作类	php
+128	PHP删除无限分类并同时删除它下面的所有子分类的方法	php
+126	PHP获取IP的多种方式解析	php
+124	Javascript trim()函数实现	javascript
+122	PHP只下载不打开文件	php
+119	日期选择控件-date_input	javascript
+117	项目经历2-电子台账系统	程序人生
+115	删除记录之前-切记要检查是不是存在该记录	mysql
+113	phpmyadmin无法加载mcrypt的解决方法	mysql,phpmyadmin,数据库
+111	AJAX中文乱码PHP完美解决(IE和Firefox兼容)	javascript,php
+109	java环境变量配置	java
+107	PHP输出Excel实例代码	excel,php
+105	PHP安全笔记	php,安全
+103	文件下载代码-来自PBDigg	php
+99	PHP中文乱码解决	php
+97	PHP IE下载时提示”无法复制 无法读取源文件或磁盘”的解决办法	php
+94	搜索关键词高亮显示	javascript
+91	vi编辑器命令	linux,vim
+87	硬盘分区表丢失、修复大事记–分区表修复利器testdisk	操作系统
+85	linux下禁止机箱蜂鸣方法	linux
+83	当用header方法输出内容时出现“Cannot modify header information – headers already sent by”的解决方法	php
+78	JavaScript对Select的子元素Option的操作	javascript
