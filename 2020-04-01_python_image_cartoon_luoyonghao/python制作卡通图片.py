@@ -1,3 +1,4 @@
+# 安装包的方法：https://pypi.org/project/opencv-python/
 import cv2
 
 img = cv2.imread("luoyonghao.jpg")
